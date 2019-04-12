@@ -1,5 +1,11 @@
 Voici mon dernier fichier.
 
 Je vous présente mes hobby:
-- je suis éducateur de Football pour une équipe de U17 (je passe un diplôme cette année)
+- je suis "éducateur de Football pour une équipe de U17 (je passe un diplôme cette année)
 - je suis un amateur du jeu de GO
+
+Explication du jeu de GO : 
+Le jeu de GO est un jeu asiatique qui se joue sur un plateau et le but de créer un plus grand territoire que l'adversaire.
+Les règles du jeux sont simples mais la stratégie est immense.
+
+Il y a de nombreux joueurs professionnels aux Japon, au Corée et en Chine
